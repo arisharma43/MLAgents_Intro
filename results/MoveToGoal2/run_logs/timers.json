@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1655154726",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\arish\\MLAgents_Intro\\venv\\Scripts\\mlagents-learn --run-id=MoveToGoal2",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1655154758"
+    },
+    "total": 31.534008000000004,
+    "count": 1,
+    "self": 0.012496700000003358,
+    "children": {
+        "run_training.setup": {
+            "total": 0.11857620000000013,
+            "count": 1,
+            "self": 0.11857620000000013
+        },
+        "TrainerController.start_learning": {
+            "total": 31.4029351,
+            "count": 1,
+            "self": 0.0004532000000061487,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 31.402461399999996,
+                    "count": 1,
+                    "self": 31.402461399999996
+                },
+                "trainer_threads": {
+                    "total": 1.1999999998124622e-06,
+                    "count": 1,
+                    "self": 1.1999999998124622e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.9299999998168005e-05,
+                    "count": 1,
+                    "self": 1.9299999998168005e-05
+                }
+            }
+        }
+    }
+}
