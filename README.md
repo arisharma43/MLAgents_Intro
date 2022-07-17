@@ -4,4 +4,4 @@
 
 #### ![Some statistics](Images/MoreStats.png)
 
-##### ![More statistics](Images/Screenshot 2022-06-18 172306.png)
+##### ![More statistics](Images/Screenshot2022-06-18 172306.png)
