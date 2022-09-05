@@ -2,7 +2,12 @@
 
 ### Training a model box in Unity through MLAgents package for basic reward using Reinforcement Learning.
 
-#### ![Pictures](Images/MLAgents_Intro.png)
+#####
+Training Setup:
 
-#### ![Some statistics](Images/MoreStats.png)
+![Pictures](Images/MLAgents_Intro.png)
+
+Stats on learning rate, total reward gained, and value loss:
+
+![Some statistics](Images/MoreStats.png)
 
